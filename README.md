@@ -1,3 +1,5 @@
+> **This app has moved.** RulzTrainer is now part of [RulZ AI Tools Suite](https://github.com/speedyrulz/RulZ-AI-Tools-Suite): its source is in [apps/RulzTrainer](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/tree/main/apps/RulzTrainer), its downloads are on the [Releases page](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/releases) and its guide is in the [wiki](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/wiki/RulzTrainer). This repository is archived and no longer updated.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo_dark.png">
